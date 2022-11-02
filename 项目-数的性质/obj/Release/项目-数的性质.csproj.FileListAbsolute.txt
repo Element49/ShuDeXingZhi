@@ -1,0 +1,10 @@
+D:\项目-数的性质\项目-数的性质\项目-数的性质\bin\Release\项目-数的性质.exe.config
+D:\项目-数的性质\项目-数的性质\项目-数的性质\bin\Release\项目-数的性质.exe
+D:\项目-数的性质\项目-数的性质\项目-数的性质\bin\Release\项目-数的性质.pdb
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目-数的性质.csprojAssemblyReference.cache
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目_数的性质.Form1.resources
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目_数的性质.Properties.Resources.resources
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目-数的性质.csproj.GenerateResource.cache
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目-数的性质.csproj.CoreCompileInputs.cache
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目-数的性质.exe
+D:\项目-数的性质\项目-数的性质\项目-数的性质\obj\Release\项目-数的性质.pdb
